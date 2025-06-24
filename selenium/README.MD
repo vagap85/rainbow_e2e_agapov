@@ -25,4 +25,8 @@ venv\Scripts\activate     # Windows
 
 ## Основные настройки в .env
 
-
+## Описание файлов:
+- base.py - Базовый класс страницы
+- conftest.py - Фикстуры pytest
+- requirements.py - Зависимости
+- 
