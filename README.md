@@ -23,7 +23,7 @@ url: https://dev2.getinfo.radugi.net <br>
 - company-page.spec.js - Доступность страницы Компания после авторизации
 - error-log-pass.spec.js - Ошибка при вводе неверного логина или пароля
 - login.spec.js - Успешный вход
-- user-match.spec.js - 
+- user-match.spec.js - Совпадение авторизованного пользователя с руководителем компании
 
 Основные настройки в playwright.config.js:
 - Браузеры для тестирования
