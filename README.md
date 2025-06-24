@@ -20,7 +20,10 @@ url: https://dev2.getinfo.radugi.net <br>
 - Запустить тесты (bash- npx playwright test)
 
 Описание файлов с тестами:
-- 
+- company-page.spec.js - Доступность страницы Компания после авторизации
+- error-log-pass.spec.js - Ошибка при вводе неверного логина или пароля
+- login.spec.js - Успешный вход
+- user-match.spec.js - 
 
 Основные настройки в playwright.config.js:
 - Браузеры для тестирования
