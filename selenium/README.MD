@@ -11,13 +11,13 @@
 
 ## Установка
 1. Клонировать репозиторий:
-   ```bash
+   bash
    git clone https://github.com/ваш-username/ваш-репозиторий.git
    cd ваш-репозиторий
 2. Создать и активировать виртуальное окружение:
-```python -m venv venv
+python -m venv venv
 source venv/bin/activate  # Linux/MacOS
-venv\Scripts\activate     # Windows```
+venv\Scripts\activate     # Windows
 3. Установить зависимости: pip install -r requirements.txt
 4. Запуск тестов: 
 Все тесты- pytest -v
