@@ -29,4 +29,8 @@ venv\Scripts\activate     # Windows
 - base.py - Базовый класс страницы
 - conftest.py - Фикстуры pytest
 - requirements.py - Зависимости
-- 
+- test_auth.py - Успешный вход
+- test_auth_invalid.py - Ошибка при вводе неверного логина или пароля
+- test_recovery.py - Восстановление пароля
+- test_company_page.py - Доступность страницы Компания после авторизации
+- test_user_match.py - Совпадает ли текущий авторизованный пользователь с пользователем, который указан Руководителем в компании
