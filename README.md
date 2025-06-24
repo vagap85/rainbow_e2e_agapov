@@ -14,7 +14,7 @@ url: https://dev2.getinfo.radugi.net <br>
 - npm v8+
 - Git
 
-  Запуск:
+Запуск:
 - Клонировать репозиторий
 - Установить зависимости (bash- npm install)
 - Запустить тесты (bash- npx playwright test)
