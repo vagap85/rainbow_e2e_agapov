@@ -18,7 +18,7 @@
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 venv\Scripts\activate     # Windows
-3. Установить зависимости: pip install -r requirements.txt
+3. Установить зависимости: #pip install -r requirements.txt
 4. Запуск тестов: 
 - Все тесты- pytest -v
 - Конкретный тест- pytest tests/test_auth.py -v
